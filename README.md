@@ -18,7 +18,7 @@ Decision Trees work by recursively splitting the dataset based on feature values
 
 Real-world applications include medical imaging (classifying X-rays), agricultural monitoring (crop disease detection), and quality control in manufacturing (identifying defective products). The limitations are clear—Decision Trees struggle with complex spatial hierarchies in images—but the project serves as an excellent introduction to both computer vision and interpretable ML models. The entire implementation was done in Google Colab, leveraging free cloud GPUs for efficient computation.
 
-#Output
+# Output
 
 ![Image](https://github.com/user-attachments/assets/6380df87-a743-4455-acbc-411826004e07)
 
